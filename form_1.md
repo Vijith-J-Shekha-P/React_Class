@@ -1,4 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
 
 Here's an example of a React form with `onSubmit` handling using functional components and React Hooks:
 
