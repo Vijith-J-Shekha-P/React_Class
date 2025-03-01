@@ -11,7 +11,7 @@ function App() {
 
   const getCollegeList = async () => {
     try {
-      const response = await fetch("URL");
+      const response = await fetch("URL"); // instead of URL you use your URL
 
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
